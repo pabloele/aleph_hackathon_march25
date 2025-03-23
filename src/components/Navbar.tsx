@@ -40,7 +40,7 @@ export const Navbar = () => {
 	const {
 		// user,
 		isAuthenticated,
-		logout,
+		// logout,
 	} = useAuthStore();
 
 	const navigate = useNavigate();
