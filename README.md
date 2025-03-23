@@ -1,60 +1,15 @@
-# Shadcn/UI Landing Page Template
+# TrustPays
 
-## <a href="https://ui.shadcn.com/" target="_blank">ShadcnUI</a> + <a href="https://react.dev/" target="_blank">React</a> + <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a> + <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>.
+TrustPays es una aplicación de pagos con verificación de identidad utilizando [World ID](https://id.worldcoin.org/) y un sistema de reputación basado en calificaciones de los clientes. Cada pago realizado puede ser calificado, construyendo un historial de confianza para cada usuario.
 
-![shadch-landing-page](https://github.com/leoMirandaa/shadcn-landing-page/assets/61714687/3ba7b51f-9589-4541-800a-5ab7cecad1b5)
+## 🚀 Características
 
-Build your React landing page effortlessly with the required sections to your project. <a href="https://shadcn-landing-page.vercel.app/" target="_blank">Live Demo</a>
+- **Pagos Seguros:** Realiza pagos utilizando **Ethereum**.
+- **Verificación de Identidad:** Integración con **World ID** para garantizar autenticidad y confianza.
+- **Sistema de Reputación:** Cada usuario recibe calificaciones basadas en sus transacciones.
 
-## Sections
 
-- [x] Navbar
-- [x] Sidebar(mobile)
-- [x] Hero
-- [x] Sponsors
-- [x] About
-- [x] Stats
-- [x] How It Works
-- [x] Features
-- [x] Services
-- [x] Call-to-Action (CTA)
-- [x] Testimonials
-- [x] Team
-- [x] Pricing
-- [x] Newsletter
-- [x] Frequently Asked Questions(FAQ)
-- [x] Footer
+---
 
-## Features
 
-- [x] Fully Responsive Design
-- [x] User Friendly Navigation
-- [x] Dark Mode
-- [x] Meta tags
-
-## How to install
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/leoMirandaa/shadcn-landing-page.git
-```
-
-2. Go into project
-
-```bash
-cd shadcn-landing-page
-```
-
-3. Install dependencies
-
-```bash
-npm install
-```
-
-4. Run project
-
-```bash
-npm run dev
-```
 # aleph_hackathon_march25
