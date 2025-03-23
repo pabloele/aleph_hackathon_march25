@@ -22,7 +22,7 @@ export default function Wallet() {
 	return (
 		<div className="p-4 max-w-md mx-auto">
 			<div className="flex flex-row align-center justify-between mb-4">
-				<h1 className="text-3xl font-bold mb-4">Wallet</h1>
+				{/* <h1 className="text-3xl font-bold mb-4">Wallet</h1> */}
 				<ConnectButton
 					client={client}
 					chain={defineChain(baseSepolia)}
