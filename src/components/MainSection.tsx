@@ -11,10 +11,6 @@ export const MainSection = () => {
 					<p className="bg-gradient-to-r from-[#61DAFB] via-[#1fc0f1] to-[#03a3d7] text-transparent bg-clip-text mr-2">
 						TrustPays
 					</p>
-					<p className="bg-gradient-to-r from-[#F596D3] to-[#D247BF] text-transparent bg-clip-text mr-2">
-						PAGOS
-					</p>
-					con confianza
 				</h1>
 
 				<p className="text-xl text-muted-foreground">
