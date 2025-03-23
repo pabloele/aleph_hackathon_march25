@@ -6,7 +6,9 @@ interface SponsorProps {
 
 const sponsors: SponsorProps[] = [
 	{
-		icon: <img src="./world-logo.svg" alt="" width={34} height={34} />,
+		icon: (
+			<img src="./world-logo.svg" alt="" size="20" className="text-white" />
+		),
 		name: "",
 	},
 ];
