@@ -82,7 +82,7 @@ export const Navbar = () => {
 
 									{isAuthenticated === true ? (
 										<>
-											<Button onClick={logout}>Cerrar Sesion</Button>
+											{/* <Button onClick={logout}> Sesion</Button> */}
 											<Button onClick={() => navigate("/wallet")}>
 												Wallet
 											</Button>
